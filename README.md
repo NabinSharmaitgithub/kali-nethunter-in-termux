@@ -10,7 +10,7 @@ The Kali nethunter is a Linux based operating system that is used by hackers
 # ⚠️ This Tool Test On 
 This tool only works on Termux 
 if you want to use On PC 
-Go To  beef website
+Go To  klai Linux website
 -  👍https://www.kali.org/get-kali/
 
 
@@ -36,7 +36,7 @@ chmod +x kali-nethunter-in-termux.sh
 ```
 
 - And Setuping Go To Home Directory ok 👇
-- And Run beef The Script will install On Your Termux 👇 
+- And Run nh The Script will install On Your Termux 👇 
 
 ```bash
 nh
